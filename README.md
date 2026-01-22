@@ -6,3 +6,10 @@
 **Getting Started**
 
 `<script src="https://cdn.jsdelivr.net/gh/austone11-dot/austone-canvas@refs/heads/main/austonecanvas.js">`
+
+**General**
+
+Functions
+
+ClearCanvas()
+UpdateCanvas()
