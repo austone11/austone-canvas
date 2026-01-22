@@ -4,4 +4,5 @@
 <h1>Documentation</h1>
 
 **Getting Started**
-`https://cdn.jsdelivr.net/gh/ageer2030-dot/austone-canvas@refs/heads/main/austonecanvas.js`
+
+`<script src="https://cdn.jsdelivr.net/gh/austone11-dot/austone-canvas@refs/heads/main/austonecanvas.js">`
